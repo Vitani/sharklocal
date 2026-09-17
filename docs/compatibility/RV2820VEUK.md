@@ -42,3 +42,7 @@
 
 ## Known Issues / Notes
 - **Local Control Disabled:** Both REST and MQTT ports appear locked down or unreachable.
+- `nmap` report:
+   - 80 (filtered)
+   - 5555 (open)
+   - 8080 (filtered)
